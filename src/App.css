@@ -1,0 +1,143 @@
+h1 {
+    text-align: center;
+    color: #ffa500;
+}
+
+.product {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    max-width: 175px;
+    margin: 10px;
+}
+
+article {
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid black;
+    /*background-color: green;*/
+}
+
+button {
+    margin: 5px;
+    /*background-color: aqua;*/
+}
+
+form {
+    display: flex;
+    margin: 8px;
+    flex-direction: column;
+    /*text-align: center;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*background-color: red;*/
+}
+
+
+input {
+    margin: 5px;
+    /*background-color: blue;*/
+}
+
+ul {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+    /*text-align: end;*/
+    /*background-color: chartreuse;*/
+}
+
+p {
+    color: #ff0000;
+}
+
+
+#buttonSubmit {
+    max-width: 80px;
+    /*background-color: deeppink;*/
+}
+
+#remarks {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+    /*background-color: cornflowerblue;*/
+}
+
+#terms-and-conditions {
+    margin-top: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*label {*/
+/*    margin-right: 10px;*/
+/*    background-color: orange;*/
+/*}*/
+
+
+/*label {*/
+/*    display: block;*/
+/*    margin: 8px;*/
+/*}*/
+
+
+/*.buttonCounter {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    flex-direction: row;*/
+/*}*/
+
+
+/*.name {*/
+/*    margin: 10px;*/
+/*}*/
+
+
+
